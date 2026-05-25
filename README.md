@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Shreya Nimje
 
-<!--
-**ShreyaNimje/ShreyaNimje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA (AI/ML) Student | Interested in Data-Driven Roles
 
-Here are some ideas to get you started:
+📍 Nagpur, Maharashtra, India  
+📧 nimjes275@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+- MCA student specializing in Artificial Intelligence and Machine Learning
+- Interested in Software Development, Data Analytics, and Problem Solving
+- Skilled in Web Technologies and Database Management
+- Actively involved in placement coordination and event management activities
+- Focused on continuous learning and practical implementation
+
+---
+
+## 💙 Technical Skills
+
+### Languages & Technologies
+HTML | CSS | JavaScript | PHP | SQL | Python
+
+### Tools & Platforms
+Git | GitHub | MySQL | Microsoft Office
+
+### Professional Skills
+- Communication & Coordination
+- Process Coordination
+- Data Management
+- Problem Solving
+- Team Collaboration
+
+---
+
+## 💼 Experience
+
+### CDPC Coordinator – MCA Program
+- Coordinating placement-related activities
+- Assisting in organizing recruitment and career development events
+- Managing communication between students and placement authorities
+
+---
+
+## 🌈 Leadership & Activities
+
+- Core Organizing Committee Member – Cloud and Cyber Security Expo
+- Organizing Team Member – Aura (Shark Tank Event)
+- Class Representative (BCCA)
+- NSS Volunteer & Green Club Member
+
+---
+
+## 🌱 Current Focus
+
+- Data Structures & Algorithms
+- AI/ML Concepts
+- Python Development
+- Database Management
+- Placement Preparation
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/shreya-nimje-226006338
